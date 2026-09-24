@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
 **joey-strada/joey-strada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently a Business Analytics and Information Systems & Finance Major at the University of Iowa
 - 🌱 I’m currently learning to sharpen my Python and SQL skills
@@ -13,4 +9,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
